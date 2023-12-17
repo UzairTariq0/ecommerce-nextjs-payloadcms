@@ -27,4 +27,4 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
   )
 }
 
-export default CategoryCard
+export default CategoryCard 
