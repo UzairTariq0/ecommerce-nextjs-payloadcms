@@ -1,5 +1,11 @@
 .addToCartButton {
-  visibility: visible;
+  visibility: hidd;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
   opacity: 1;
   transition: opacity 100ms linear;
 }
